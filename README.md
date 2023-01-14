@@ -25,6 +25,6 @@ $ cd MBI
 
 ## 🛠️ built with
 
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> (https://www.javascript.com/) - Backend language used
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> (https://www.w3schools.com/html/) - Used for website tagging
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> (https://www.w3schools.com/css/) - Used for website styling
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> (https://www.javascript.com/) - Backend language used
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> (https://www.w3schools.com/html/) - Used for website tagging
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> (https://www.w3schools.com/css/) - Used for website styling
