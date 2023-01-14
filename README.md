@@ -21,8 +21,8 @@ $ git clone <https://github.com/raphaeltcf/BMI-calculator>
 # Access the project folder in terminal/cmd
 $ cd MBI
 
-#Run the app in the Browser
-
+# Run the app in the Browser
+```
 ## 🛠️ built with
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> (https://www.javascript.com/) - Backend language used
