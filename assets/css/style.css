@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+* {
+    box-sizing: border-box;
+    outline: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(4, 89, 158);
+    font-family: 'Open sans', sans-serif;
+    font-size: 1.3em;
+    line-height: 1.5em;
+}
+
+.container {
+    max-width: 650px;
+    max-height: 8000px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.column {
+    column-count: 2;
+    column-gap: 201px;
+    
+}
+
+form input, form label, form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+
+form input {
+    font-size: 15px;
+    height: 50px;
+    padding: 0 20px;
+} 
+
+form input:focus {
+    outline: 1px solid rgb(0, 0, 0);
+}
+
+form button {
+    border: none;
+    background: rgb(4, 89, 158);
+    color: white;
+    font-size: 10px;
+    font-weight: 700px;
+    height: 50px;
+    cursor: pointer
+
+}
+
+form button:hover {
+    background: black;
+}
+.p-result, .bad{
+    background: rgb(54, 226, 54);
+    padding: 10px 20px;
+}
+
+.bad {
+    background: rgb(110, 37, 37);
+}

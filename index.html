@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculate your BMI</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+    
+    <section class="container">
+        <div class="column">
+            <h1>MBI Table</h1>
+            <h2>MBI</h2> 
+            <p>Less than 18.9</p>
+            <p>Between 19 and 24.9</p>
+            <p>Between 25 and 29.9</p>
+            <p>Between 30 and 34.9</p>
+            <p>Between 35 and 39.9</p>
+            <p>More than 40</p>
+            <br>
+            <br>
+            <h2>Result</h2>
+            <p>Under weight</p>
+            <p>Normal weight</p>
+            <p>Overweight</p>
+            <p>Grade 1 obesity</p>
+            <p>Grade 2 obesity</p>
+            <p>Grade 3 obesity</p> 
+        </div>
+
+        <h1>Calculate your BMI</h1>
+        <form action="/" id="form" method="POST">
+            <label for="Weight">Weight</label>
+            <input type="text" id="weight" name="weight">
+            <label for="height">height</label>
+            <input type="text" id="height" name="height">
+            <button type="submit">Enviar</button>
+        </form>
+        <div id="result"></div>
+    </section>
+    <script src="./assets/js/main.js"></script>
+</body>
+
+</html>
